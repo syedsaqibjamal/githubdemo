@@ -1,0 +1,7 @@
+Week 2:
+-------
+Key steps of machine learning project:
+1. Collect Data
+2. Train the model
+3. Deploy the model
+
